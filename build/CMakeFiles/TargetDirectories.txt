@@ -1,0 +1,5 @@
+/home/eduard/prj/planta/build/CMakeFiles/rebuild_cache.dir
+/home/eduard/prj/planta/build/CMakeFiles/Production.dir
+/home/eduard/prj/planta/build/CMakeFiles/edit_cache.dir
+/home/eduard/prj/planta/build/CMakeFiles/Debug.dir
+/home/eduard/prj/planta/build/CMakeFiles/Z_DUMMY_TARGET.dir
